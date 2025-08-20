@@ -1,11 +1,5 @@
-/*
-14. Leia uma temperatura a qual o usuário irá digitar o Valor e a escala atual: (Fahrenheit, Celsius, Kelvin), e informar a escala para qual deseja converter.
-a. Celsius para Fahrenheit: F = C*(1,8) + 32
-b. Fahrenheit para Celsius: C = (F − 32) / 1,8
-c. Kelvin para Celsius: C = K – 273,15
-d. Celsius para Kelvin: K = C + 273,15
-e. Kelvin para Fahrenheit: F = 1,8(K-273) + 32
-*/
+// 14. Leia uma temperatura a qual o usuário irá digitar o valor e a escala atual: (Fahrenheit, Celsius, Kelvin), e informar a escala para qual deseja converter.
+
 
 import java.util.Scanner;
 
@@ -76,4 +70,5 @@ public class Conversao {
 
         }
     }
+
 }
