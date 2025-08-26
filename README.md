@@ -1,4 +1,4 @@
-# ConversaoTemperatura 🌡
+# ConversaoTemperatura
 
 Projeto em **Java** para conversão de temperaturas entre diferentes escalas (Celsius, Fahrenheit e Kelvin).
 
