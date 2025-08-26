@@ -19,3 +19,11 @@ Projeto em **Java** para conversão de temperaturas entre diferentes escalas (Ce
 2. Clone este repositório:
    ```bash
    git clone https://github.com/rafaelmendes007/ConversaoTemperatura.git
+3. Abra no terminal o caminho da pasta:
+  ```bash
+   cd ConversaoTemperatura
+  ```
+4. Digite:
+  ```bash
+   java Conversao
+  ```
