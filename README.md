@@ -1,7 +1,8 @@
 # ConversaoTemperatura
-Projeto para cálculo da conversão de temperatura de acordo com a escala inicial, a temperatura atual e a escala final desejada
+Projeto simples para cálculo da conversão de temperatura entre diferentes escalas (Celsius, Fahrenheit e Kelvin).
 
-*Forma de Usar:*
-*1 -* Criar uma pasta vazia
-*2 -* Usar o comando "git pull" com o endereço do diretório
-*3 -* Abrir a pasta "ConversaoTemperatura" no terminal
+## Como Usar
+1. Crie uma pasta vazia no seu computador.
+2. Clone o repositório:
+   ```bash
+   git clone <url-do-repositorio>
